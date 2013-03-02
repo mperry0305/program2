@@ -3,7 +3,7 @@ import java.awt*;
 
 public class Mandelbrot1(){
   
-  boolean isTrue, isFalse;
+  boolean;
   Scanner input = new Scanner(System.in);
   private int
       gridSize,
@@ -21,7 +21,6 @@ public class Mandelbrot1(){
   //user input for values
   System.out.println('Enter gridSize...');
   if(input.nextInt>400 && input.nextInt>9999){
-    boolean
   }
   gridSize = input.nextInt();
   
@@ -37,7 +36,6 @@ public class Mandelbrot1(){
   int[][] turtle;
 
   //loading grid
-  true==true;
   while(true){
   for(x=xMin;x<sideLength;x++){
     for(y=yMin;y<sideLength;y++)
